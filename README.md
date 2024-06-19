@@ -1,1 +1,1 @@
-# googletest
+GoogleTest Quickstart: Bazel
